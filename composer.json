@@ -16,9 +16,6 @@
     "silverstripe/framework": "~3.3"
   },
   "extra": {
-    "installer-name": "category",
-    "screenshots": [
-      "relative/path/screenshot1.png",
-    ]
+    "installer-name": "category"
   }
 }
